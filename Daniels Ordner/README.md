@@ -1,7 +1,7 @@
 | B           | I          | N               | G   | O               |
 |-------------|------------|-----------------|-----|-----------------|
 | Python      | Node JS    | X Status Code 404 (Not found) | Status Code 777 Lucky | X Status Code 451 Unavailable For Legal Reasons |
-| JavaScript  | TypeScript |  | X Status Code 450 Blocked by Windows Parental Controls | Status Code 502 Bad Request |
+| JavaScript  | TypeScript | X Status Code 502 Bad Gateway | X Status Code 450 Blocked by Windows Parental Controls | Status Code 502 Bad Request |
 | Spring Boot | Get | Maven           | Delete | X Status Code 200 (Ok) |
 | Put | React      | X Post | Angular | Status Code 403 (Forbidden) |
 
